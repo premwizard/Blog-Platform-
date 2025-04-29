@@ -1,6 +1,6 @@
 Blog Platform Using MERN Stack 
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Frontend**
 - React.js 
